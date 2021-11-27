@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Belly Button Bacteria
 
-You can use the [editor on GitHub](https://github.com/smir3/plotly_chart/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Purpose
+Improbable Beef, a food start-up, is searching for the bacterial species which produces the perfect tasting synthetic meat. They hypothesize that this bacteria can be found within the navel of the human body. To test this hypothesis, the navels of people across the country have been sampled to identify bacterial species that colonize the belly button. Different parts of the human body harbour different species of bacteria, and between individuals, bacteria may even vary within the same location. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Task
+The purpose of this analysis is to build an online dashboard that research participants and researchers can access. Each person has been assigned an ID number to ensure their identity remains anonymous. Those who participate in the study should be able to visit the website, select their ID number, and see which bacterial species live in their navels. The website will display a panel containing demographic information as well as visually display the Top 10 bacterial species in their belly button. This way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, the study participants will be able to identify whether that species is found in their navel.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smir3/plotly_chart/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
